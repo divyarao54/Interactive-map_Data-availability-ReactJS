@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/divyarao54/Interactive-map_Data-availability/static/css/main.323d7611.css",
-    "main.js": "/divyarao54/Interactive-map_Data-availability/static/js/main.00e76a1c.js",
-    "static/js/787.8c16b398.chunk.js": "/divyarao54/Interactive-map_Data-availability/static/js/787.8c16b398.chunk.js",
-    "index.html": "/divyarao54/Interactive-map_Data-availability/index.html",
-    "main.323d7611.css.map": "/divyarao54/Interactive-map_Data-availability/static/css/main.323d7611.css.map",
-    "main.00e76a1c.js.map": "/divyarao54/Interactive-map_Data-availability/static/js/main.00e76a1c.js.map",
-    "787.8c16b398.chunk.js.map": "/divyarao54/Interactive-map_Data-availability/static/js/787.8c16b398.chunk.js.map"
+    "main.css": "/Interactive-map_Data-availability/static/css/main.323d7611.css",
+    "main.js": "/Interactive-map_Data-availability/static/js/main.cbd5dcf0.js",
+    "static/js/787.8c16b398.chunk.js": "/Interactive-map_Data-availability/static/js/787.8c16b398.chunk.js",
+    "index.html": "/Interactive-map_Data-availability/index.html",
+    "main.323d7611.css.map": "/Interactive-map_Data-availability/static/css/main.323d7611.css.map",
+    "main.cbd5dcf0.js.map": "/Interactive-map_Data-availability/static/js/main.cbd5dcf0.js.map",
+    "787.8c16b398.chunk.js.map": "/Interactive-map_Data-availability/static/js/787.8c16b398.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.323d7611.css",
-    "static/js/main.00e76a1c.js"
+    "static/js/main.cbd5dcf0.js"
   ]
 }
