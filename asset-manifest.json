@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/divyarao54/Interactive-map_Data-availability/static/css/main.323d7611.css",
+    "main.js": "/divyarao54/Interactive-map_Data-availability/static/js/main.44c5660f.js",
+    "static/js/787.8c16b398.chunk.js": "/divyarao54/Interactive-map_Data-availability/static/js/787.8c16b398.chunk.js",
+    "index.html": "/divyarao54/Interactive-map_Data-availability/index.html",
+    "main.323d7611.css.map": "/divyarao54/Interactive-map_Data-availability/static/css/main.323d7611.css.map",
+    "main.44c5660f.js.map": "/divyarao54/Interactive-map_Data-availability/static/js/main.44c5660f.js.map",
+    "787.8c16b398.chunk.js.map": "/divyarao54/Interactive-map_Data-availability/static/js/787.8c16b398.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.323d7611.css",
+    "static/js/main.44c5660f.js"
+  ]
+}
