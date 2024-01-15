@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Interactive-map_Data-availability/static/css/main.323d7611.css",
-    "main.js": "/Interactive-map_Data-availability/static/js/main.cbd5dcf0.js",
+    "main.css": "/Interactive-map_Data-availability/static/css/main.5f676dca.css",
+    "main.js": "/Interactive-map_Data-availability/static/js/main.71423cde.js",
     "static/js/787.8c16b398.chunk.js": "/Interactive-map_Data-availability/static/js/787.8c16b398.chunk.js",
     "index.html": "/Interactive-map_Data-availability/index.html",
-    "main.323d7611.css.map": "/Interactive-map_Data-availability/static/css/main.323d7611.css.map",
-    "main.cbd5dcf0.js.map": "/Interactive-map_Data-availability/static/js/main.cbd5dcf0.js.map",
+    "main.5f676dca.css.map": "/Interactive-map_Data-availability/static/css/main.5f676dca.css.map",
+    "main.71423cde.js.map": "/Interactive-map_Data-availability/static/js/main.71423cde.js.map",
     "787.8c16b398.chunk.js.map": "/Interactive-map_Data-availability/static/js/787.8c16b398.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.323d7611.css",
-    "static/js/main.cbd5dcf0.js"
+    "static/css/main.5f676dca.css",
+    "static/js/main.71423cde.js"
   ]
 }
